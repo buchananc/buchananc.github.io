@@ -1,0 +1,85 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-image: url("../imgs/watercolor.jpg");
+}
+  
+
+
+.navbar-header {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.navbar-brand {
+    font-family: 'Amatic SC', cursive;
+    font-size: 32px;
+}
+
+/*Center responsive images - doesn't work*/
+.img-responsive {
+
+}
+
+.img-circle {
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    display: block;
+    border: 5px solid #FFFFFF;
+}
+
+.profilepic {
+    max-block-size: inherit;
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+}
+
+
+h2 {
+    font-size: 32px;
+}
+
+.socialcon {
+    margin: auto;
+    display: block;
+}
+
+p {
+    text-align: center;
+    margin: 0;
+}
+
+.socialinfo {
+    padding-top: 75px;
+}
+
+.centerposition {
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    text-align: center;
+}
+
+footer {
+    padding-top: 30px;
+}
+
+/*Portfolio*/
+
+h3 {
+    font-size: 32px;
+}
+
+h4 {
+    text-align: center;
+}
+
+.portfoliopic {
+    display: block;
+    margin: auto;
+    
+}

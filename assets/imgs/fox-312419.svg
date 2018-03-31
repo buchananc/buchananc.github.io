@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg">
+ <g stroke-dasharray="null" stroke-linejoin="null">
+  <g stroke-linecap="null" stroke-width="5">
+   <g fill="#ff7f00" stroke="#ff7f00">
+    <path d="m181.1 167.27l-55.102 87.727 92 100 84-96-52-91-68.898-0.7273z"/>
+    <path transform="rotate(-11.669 186.5 153.48)" d="m169.24 183.11l6.8356-59.273 27.696 47-34.532 12.273z"/>
+    <path transform="rotate(15.559 247.99 148.38)" d="m254.69 118.85l11.117 57.075-35.636 1.9774 24.519-59.052z"/>
+   </g>
+   <g stroke="#191919">
+    <ellipse cx="207.1" cy="232.27" rx="2" ry="3"/>
+    <ellipse cx="230.6" cy="232.27" rx="1.5" ry="3" fill="#ff7f00"/>
+    <ellipse cx="218.1" cy="309.27" rx="20" ry="10" fill="#4c4c4c"/>
+   </g>
+   <g fill="none">
+    <ellipse cx="389.1" cy="289.27" stroke="#191919"/>
+    <path d="m125.1 255.27l93.936 37.727 86.961-35" stroke="#fff"/>
+   </g>
+   <g stroke="#ff7f00">
+    <path transform="rotate(7.922 381.67 318.73)" d="m234.22 372.47l61.898-94.485 174-44.04 59 132.12-4 37.434-290.9-31.028z" fill="#ff7f00"/>
+    <g fill="none">
+     <line x1="252.1" x2="216.1" y1="359.82" y2="449.82"/>
+     <line x1="286.1" x2="288.1" y1="366.82" y2="458.82"/>
+     <line x1="409.1" x2="396.1" y1="399.82" y2="466.82"/>
+     <line x1="448.1" x2="451.1" y1="408.82" y2="468.82"/>
+    </g>
+    <path d="m614.1 248.82l-40.102-30.818-56 18-32 10 19 17 46 12 32-21 35 14-3.8977-19.182z" fill="#ff7f00"/>
+    <path d="m577.1 218.82l6.8977 38.182 38 15-3-23-41.898-30.182z" fill="#fff"/>
+   </g>
+  </g>
+  <text x="-176.897736" y="248.818176" font-family="serif" font-size="24" opacity=".5" stroke-width="0" text-anchor="middle" xml:space="preserve"/>
+ </g>
+</svg>
